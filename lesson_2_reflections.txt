@@ -9,3 +9,7 @@ by a repository.
 The repository keeps metadata about tracked files and the different commits we could do for those files
 The staging area is a middle ground between the working directory and the repository, it's usefull in case I make a mistake and add
 a file I don't want in my repository, I can delete it from the staging area but it will still exist in my working directory
+
+How can you use the staging area to make sure you have one commit per logical change?
+I could use git diff and git diff --staged to see what's currently in the staging area and make sure it correspond to only one
+logical change
