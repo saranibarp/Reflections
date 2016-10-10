@@ -13,3 +13,8 @@ a file I don't want in my repository, I can delete it from the staging area but 
 How can you use the staging area to make sure you have one commit per logical change?
 I could use git diff and git diff --staged to see what's currently in the staging area and make sure it correspond to only one
 logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when trying out experimental features but you want to keep an original version of your files ready to use, you could create two branches
+and experiment on one of them knowing you have an original version safe somewhere else
+when a lot of different people work on the same files each one of them could have their own branch
