@@ -26,3 +26,11 @@ What is the result of merging two branches together? Why do we represent it in t
 The result is combining all the commits and changes done to the files by both branches into just one branch,
 you represent it in the diagran by "joining two branches" which only MAKES SENSE! because, (oh surprise) that's exactly what 
 we're doing...I really don't see the point of dumb questions
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic
+Pros: saves time and effort 
+Cons: some logical change could be missed in the automatic process
+Manually
+Pros: you can make sure all the changes that need to be committed will be comitted
+Cons: takes longer
