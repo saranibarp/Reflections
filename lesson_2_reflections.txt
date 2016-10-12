@@ -21,3 +21,8 @@ when a lot of different people work on the same files each one of them could hav
 
 How do the diagrams help you visualize the branch structure?
 same way I can see branches on a tree, they help understand the concept better
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is combining all the commits and changes done to the files by both branches into just one branch,
+you represent it in the diagran by "joining two branches" which only MAKES SENSE! because, (oh surprise) that's exactly what 
+we're doing...I really don't see the point of dumb questions
