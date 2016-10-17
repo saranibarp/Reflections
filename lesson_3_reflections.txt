@@ -6,3 +6,13 @@ Why might you want to always pull changes manually rather than having Git automa
 remote repository?
 I caould be working on some experimental features in my local repository or I could use the remote repository to 
 just have the latest functional version of my program
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: similar to repository clones, difference is forks point to the original repository and they can only be done
+in GitHub. I would use one if I want to copy someone else's repository to make my own changes but keeping a link to 
+the original repository
+clones: clones are copies of a repository, they don't point to the original version and usually they are made from 
+GitHub to a local machine or only in a local machine. I can clone a repository if I want a local copy of a repository 
+in GitHub
+branches: branches happen inside a repository, they are basically a chain of commits. I can use one to work on 
+different versions of a same progran or add experimental features to it 
