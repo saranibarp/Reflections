@@ -16,3 +16,6 @@ GitHub to a local machine or only in a local machine. I can clone a repository i
 in GitHub
 branches: branches happen inside a repository, they are basically a chain of commits. I can use one to work on 
 different versions of a same progran or add experimental features to it 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+it allows me to see if I have local changes that I haven't send to my remote copy yet.
