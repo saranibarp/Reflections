@@ -19,3 +19,8 @@ different versions of a same progran or add experimental features to it
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 it allows me to see if I have local changes that I haven't send to my remote copy yet.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could send copies of your files to the people you're collaborating with. It would be easier to just send a copy
+of a file instead of worrying about repositories and commits but it would be difficult to track the changes done by
+different people, finding errors or typos, merging the files, keeping track of all the different copies, etc.
