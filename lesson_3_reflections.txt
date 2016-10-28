@@ -24,3 +24,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 You could send copies of your files to the people you're collaborating with. It would be easier to just send a copy
 of a file instead of worrying about repositories and commits but it would be difficult to track the changes done by
 different people, finding errors or typos, merging the files, keeping track of all the different copies, etc.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each 
+approach have?
+If I'm not sure about the changes, if I want to create a pull request so someone can approve the changes first, when
+I want to try or experiment with new features without changing master. The benefits are that I won't break master if
+I messed up and my changes will be reviewed by other people. The benefits of working directly with master are less
+worrying about branches and merging and pull requests...
